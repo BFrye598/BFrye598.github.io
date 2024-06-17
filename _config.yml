@@ -119,7 +119,7 @@ author:
   location         : "East Lansing, MI"
   email            : "fryebra1@msu.edu"
   links:
-    - label: "Email"
+    - label: "fryebra1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:fryebra1@msu.edu"
     - label: "Website"
