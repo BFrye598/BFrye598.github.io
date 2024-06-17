@@ -2,4 +2,16 @@
 permalink: /skills/
 ---
 
-__Notable Skills__
+__NOTABLE SKILLS__
+_CAD_
+*NX: Extensive use and understanding of system
+*AutoCAD: Proficient with the system
+*SOLIDWORKS: Proficient with the system
+
+_Programming_
+*Python: Proficient with software
+*C++: Proficient with software
+
+_Other_
+*Microsoft Excel: In-depth understanding of system
+*Verilog: Proficient with system
