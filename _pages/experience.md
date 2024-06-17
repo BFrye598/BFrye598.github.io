@@ -16,10 +16,16 @@ I spent my four years in high school as a part of the FIRST Robotics team, where
 a robot that was able to meet certain requirements as set forth by FIRST. We worked collaboratively to design, build, and program the robot and I was an integral
 part of all of these processes. I spent three years on the Tecumseh High School team, but for my fourth year I worked with a technical institution that I was taking courses at. Taking part in this taught me valuable skills like teamwork, planning, design, and how to carry out a design to completion.
 
-<div style="display: block; text-align: center;">
+<div style="display: block; text-align: left;">
     <figure style="margin-bottom: 20px; display: inline-block;">
         <img src="/assets/images/Robot1.jpeg" alt="Robot Under Construction" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-<img src=“/assets/images/Robot2.jpeg” alt=“picturename”>
+    </figure>
+</div>
+<div style="display: block; text-align: right;">
+    <figure style="margin-bottom: 20px; display: inline-block;">
+        <img src="/assets/images/Robot2.jpeg" alt="Robot Finished" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    </figure>
+</div>
 
 Perhaps one of the most important accomplishments of my life has been my earning of the rank of Eagle Scout for the Boy Scouts of America organization.
 This is a prestigious title that showcases I have met the many rigourous requirements and learned the necessary skills throughout my time in the organization.
