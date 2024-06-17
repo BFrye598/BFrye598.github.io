@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Brandon Frye"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Computer Engineering Student at Michigan State University"
   location         : "East Lansing, MI"
   phone            : "517-260-5384"
@@ -125,7 +125,7 @@ author:
       url: "mailto:fryebra1@msu.edu"
     - label: "517-260-5384"
       icon: "fas fa-fw fa-phone"
-      #no URL
+      url: "tel: (517)260-5384"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/brandon-frye-6a7a46296"
