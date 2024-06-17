@@ -2,6 +2,8 @@
 permalink: /about/
 ---
 
+__About Me__
+
 Hello, my name is Brandon Frye. I am currently a student at Michigan State University majoring in Computer Engineering.
 Ever since I can recall, I've had a passion for science and innovation, which has led me to where I am today. I like to be
 hands on in my work, so my primary interests are in robotics, CAD, and computer hardware. Outside of that I enjoy building
