@@ -121,7 +121,7 @@ author:
   links:
     - label: "fryebra1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:fryebra1@msu.edu"
+      url: "mailto:fryebra1@msu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/BFrye598"
+      url: "https://github.com/BFrye598"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
