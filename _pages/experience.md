@@ -18,12 +18,12 @@ part of all of these processes. I spent three years on the Tecumseh High School 
 
 <div style="display: block; text-align: left;">
     <figure style="margin-bottom: 20px; display: inline-block;">
-        <img src="/assets/images/Robot1.jpeg" alt="Robot Under Construction" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+        <img src="/assets/images/Robot1.jpeg" alt="Robot Under Construction" style="width: 50%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
     </figure>
 </div>
 <div style="display: block; text-align: right;">
     <figure style="margin-bottom: 20px; display: inline-block;">
-        <img src="/assets/images/Robot2.jpeg" alt="Robot Finished" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+        <img src="/assets/images/Robot2.jpeg" alt="Robot Finished" style="width: 50%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
     </figure>
 </div>
 
@@ -32,3 +32,13 @@ This is a prestigious title that showcases I have met the many rigourous require
 The culmination of this is the Eagle Scout project, where the candidate must undertake a community service project, directing, organizing, and carrying it out.
 For my project, I assisted MSU Hidden Lake Gardens in Onstead, Michigan. They requested me to build a library box for them to offload some of their excess books.
 Using the resources that were provided of me, I planned out the project and brought a team together to implement it.
+<div style="display: block; text-align: left;">
+    <figure style="margin-bottom: 20px; display: inline-block;">
+        <img src="/assets/images/BoxBack.jpg" alt="Back of library" style="width: 50%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    </figure>
+</div>
+<div style="display: block; text-align: right;">
+    <figure style="margin-bottom: 20px; display: inline-block;">
+        <img src="/assets/images/BoxFront.jpeg" alt="Front of Library before door added" style="width: 50%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    </figure>
+</div>
