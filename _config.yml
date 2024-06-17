@@ -117,14 +117,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Computer Engineering Student at Michigan State University"
   location         : "East Lansing, MI"
-  email            : "fryebra1@msu.edu"
+  #email            : "fryebra1@msu.edu"
   links:
     - label: "fryebra1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fryebra1@msu.edu"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/brandon-frye-6a7a46296"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -315,7 +315,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
