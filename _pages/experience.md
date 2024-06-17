@@ -30,5 +30,5 @@ part of all of these processes. I spent three years on the Tecumseh High School 
 Perhaps one of the most important accomplishments of my life has been my earning of the rank of Eagle Scout for the Boy Scouts of America organization.
 This is a prestigious title that showcases I have met the many rigourous requirements and learned the necessary skills throughout my time in the organization.
 The culmination of this is the Eagle Scout project, where the candidate must undertake a community service project, directing, organizing, and carrying it out.
-For my project, I assisted Hidden Lake Gardens in Michigan with a project. They requested of me to build a library box for them to offload some of their books
-that they had an excess of, so using what they gave me, I planned out the project and brought a team together to implement it.
+For my project, I assisted MSU Hidden Lake Gardens in Onstead, Michigan. They requested me to build a library box for them to offload some of their excess books.
+Using the resources that were provided of me, I planned out the project and brought a team together to implement it.
