@@ -16,5 +16,5 @@ I spent my four years in high school as a part of the FIRST Robotics team, where
 a robot that was able to meet certain requirements as set forth by FIRST. We worked collaboratively to design, build, and program the robot and I was an integral
 part of all of these processes. I spent three years on the Tecumseh High School team, but for my fourth year I worked with a technical institution that I was taking courses at. Taking part in this taught me valuable skills like teamwork, planning, design, and how to carry out a design to completion.
 
-![Robot 1](assets/images/Robot1.jpeg)
-![Robot 2](assets/images/Robot2.jpeg)
+<img src=“/assets/images/Robot1.png” class=“picturename”>
+<img src=“/assets/images/Robot2.png” class=“picturename”>
