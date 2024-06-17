@@ -122,21 +122,15 @@ author:
     - label: "fryebra1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fryebra1@msu.edu"
+    - label: "517-260-5384"
+      icon: "fas fa-fw fa-phone"
+      #no URL
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/brandon-frye-6a7a46296"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BFrye598"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
