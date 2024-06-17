@@ -121,7 +121,7 @@ author:
   links:
     - label: "fryebra1@msu.edu"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:fryebra1@msu.edu"
+       #url: "mailto:fryebra1@msu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
