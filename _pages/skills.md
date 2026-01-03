@@ -27,3 +27,7 @@ _Other_
 *3D Printers: Able to use most types
 
 *MATLAB: Proficient in use of systems
+
+*Teamwork and Communication Skills
+
+*Leadership and Project Management Experience
