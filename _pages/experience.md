@@ -47,14 +47,3 @@ Our project was for Henry Ford Health and they wanted us to build an autonomous 
 The robot had to be designed with a robust, clean frame that could withstand any potential collisions and would also be easy to disenfect in the event of a spill.
 We also developed a UI through a website that allows the employees to indicate which lab the robot should move to. It also has an embedded camera so that any
 operators can see where the robot is at any given time. The core of the robot was a small test kit that would sit inside the frame. This kit contained a
-board that would be able to save commands as well as LIDAR and a depth camera for obstacle avoidance.
-<div style="text-align: center;">
-    <figure style="margin-bottom: 20px; display: inline-block;">
-        <img src="/assets/images/BoxBack.jpg" alt="Back of library" style="width: 45%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-    </figure>
-</div>
-<div style="text-align: center;">
-    <figure style="margin-bottom: 20px; display: inline-block;">
-        <img src="/assets/images/BoxFront.jpg" alt="Front of Library before door added" style="width: 45%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-    </figure>
-</div>
